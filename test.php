@@ -1,5 +1,5 @@
 <?php
-$servername = "192.168.1.19";
+$servername = "10.69.80.85";
 $username = "user";
 $password = "password";
 $dbname = "stage";
