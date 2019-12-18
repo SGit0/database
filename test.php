@@ -1,7 +1,7 @@
 <?php
 $servername = "10.69.80.85";
-$username = "adel";
-$password = "adel";
+$username = "user";
+$password = "password";
 $dbname = "stage";
 
 // Create connection
